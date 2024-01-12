@@ -14,3 +14,8 @@
 - Mecurial
 - Perforce (Helix Core)
 - Subversion
+
+## Git Fetch and Git Pull
+
+- git fetch is used to fetch changes from a remote repository without merging them into your local branch.
+- git pull is used to fetch changes and automatically merge them into your current working branch.
