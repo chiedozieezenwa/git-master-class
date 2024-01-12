@@ -19,3 +19,8 @@
 
 - git fetch is used to fetch changes from a remote repository without merging them into your local branch.
 - git pull is used to fetch changes and automatically merge them into your current working branch.
+
+## Git rebase
+
+- git rebase is a useful tool for cleaning up and organizing commit history, but it should be used with caution, especially on branches that have been shared with others.
+  - 'git rebase main' is the command for git rebase.
